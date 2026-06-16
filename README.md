@@ -1,6 +1,6 @@
 # ghbcdn
 
-**[FRONTEND USE HERE](https://ghbcdn.giftedtech.co.ke)**
+**[FRONTEND USE HERE](https://ghbcdn.gifted.co.ke)**
 
 **[SRC CODE REPO HERE](https://github.com/mauricegift/github-cdn)**
 
